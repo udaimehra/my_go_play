@@ -1,0 +1,8 @@
+// In order to get the list of packages installed in go.
+(base) udaisinghmehra@Udais-MacBook-Air go % pwd
+/usr/local/go
+(base) udaisinghmehra@Udais-MacBook-Air go % go list ... | head -3  
+archive/tar
+archive/zip
+bufio
+(base) udaisinghmehra@Udais-MacBook-Air go %
